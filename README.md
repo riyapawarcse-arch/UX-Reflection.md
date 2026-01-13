@@ -8,5 +8,10 @@
 - UX Analysis of real-world apps
 - Beginner product reflections
 - Product thinking notes
+## Skills Practiced
+- Product analysis
+- UX observation
+- Structured thinking
+- Written communication
 
 
